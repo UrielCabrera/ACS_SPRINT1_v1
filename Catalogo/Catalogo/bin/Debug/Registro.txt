@@ -1,0 +1,18 @@
+Aretes de pluma,25.50,1,El material son plumas sinteticas de codorniz,0,0
+Collar de plumas,52.2,1,El material son plumas sinteticas de avestruz,8,1
+Collar de plumas,99.0,1,El material son plumas sinteticas de gallina,10,2
+Sombrero,25,1,El material son plumas sinteticas sinteticas de colibri,17,3
+Tintero de pluma,30,2,El material son plumas sinteticas de perico,15,4
+Moño de plumas,45,2,El material son plumas sinteticas de gallina,16,5
+Penacho para niño,20,2,El material son plumas sinteticas de quetzal,20,6
+Pajaro de madera y plumas,10,3,El material son plumas sinteticas de pato,10,7
+Pajaro de papel y pluma,150.23,3,El material son plumas sinteticas de avestruz,4,8
+Atrapa sueños para niña,200,3,El material son plumas sinteticas de quetzal,5,9
+Pajaro de papel y pluma,180,4,El material son plumas sinteticas de avestruz,0,10
+Lapicero de plumas,4500,4,El material son plumas sinteticas de codorniz,2,11
+Sillas de plumas,1200,4,El material son plumas sinteticasde perico,1,12
+Atrapa sueños,720,4,El material son plumas sinteticas de pato,12,13
+Velas de plumas,0.50,5,El material son plumas sinteticas de codorniz,0,14
+Mascara de plumas,62,5,El material son plumas sinteticas de colibri,17,15
+Abanico de plumas,25.50,5,El material son plumas sinteticas chinas,28,16
+Mascara de plumas,25.50,5,El material son plumas sinteticas de codorniz,6,17

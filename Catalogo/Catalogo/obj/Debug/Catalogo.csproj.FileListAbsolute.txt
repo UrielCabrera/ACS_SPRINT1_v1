@@ -1,0 +1,111 @@
+D:\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+D:\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+D:\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+D:\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+D:\f-3-8n4_9q_3qy18___r_9_0j0\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.Form2.resources
+C:\Users\WinDows8\Pictures\ASEGURAMIENTO DE LA CALIDAD\Catalogo\Catalogo\obj\Debug\Catalogo.Form3.resources
+F:\Nueva carpeta\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+F:\Nueva carpeta\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+F:\Nueva carpeta\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Form2.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Form3.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Busquedas.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Portada.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.Factura.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.SistemaVentas.resources
+F:\Nueva carpeta\Catalogo\Catalogo\obj\Debug\Catalogo.DatosProducto.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.Busquedas.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.Factura.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.DatosProducto.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.Portada.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.SistemaVentas.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCategoria.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaDetalles.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Plumas\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCarrito.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.Factura.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCategoria.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.DatosProducto.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaDetalles.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCarrito.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.Portada.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.SistemaVentas.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+E:\DescargasPepita\CalidadSoftware_Alejandra\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.Factura.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCategoria.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.DatosProducto.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaDetalles.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCarrito.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.Portada.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.SistemaVentas.resources
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+E:\DescargasPepita\CalidadSoftware_Alejandra\ProyectoPlumas\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.Factura.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCategoria.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.DatosProducto.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaDetalles.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.VentanaCarrito.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.Portada.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.SistemaVentas.resources
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\mjuf\Downloads\ProyectoPlumas-master\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
